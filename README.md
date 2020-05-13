@@ -1,2 +1,2 @@
 # LeetCode-Coding
-LeetCode's programming questions solution
+LeetCode's C++ solution
